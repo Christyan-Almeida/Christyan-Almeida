@@ -36,8 +36,8 @@ Busco constantemente evoluir minhas habilidades para conquistar minha **primeira
 
 ## 📫 Contato
 
-📧 **E-mail:** *(adicione aqui, se quiser)*  
-💼 **LinkedIn:** *(adicione aqui o link do seu perfil, se tiver)*  
+📧 **E-mail:** *bernardogomesg317@gmail.com*  
+💼 **LinkedIn:** *(www.linkedin.com/in/christyan-bernardo-gomes-de-almeida-47b749220)*  
 🌐 **Portfólio:** [christyan-almeida.github.io](https://christyan-almeida.github.io/Programacao_Web/#cursos)
 
 ---
