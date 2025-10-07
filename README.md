@@ -27,6 +27,15 @@ Busco constantemente evoluir minhas habilidades para conquistar minha **primeira
 
 ---
 
+## ⚽🏀🏎️ Hobbies e Interesses
+
+Além da tecnologia, também sou apaixonado por esportes!  
+- ⚽ **Futebol** é o meu favorito — torcedor do **Cruzeiro Esporte Clube** 💙  
+- 🏀 Gosto de acompanhar **NBA**, especialmente o **Milwaukee Bucks** 🦌  
+- 🏎️ Sou grande fã de **Fórmula 1**, e meu piloto preferido é **Lewis Hamilton** 🏁  
+
+---
+
 ## 📂 Portfólio
 
 🔗 Acesse meu portfólio completo com projetos e cursos:  
@@ -36,8 +45,8 @@ Busco constantemente evoluir minhas habilidades para conquistar minha **primeira
 
 ## 📫 Contato
 
-📧 **E-mail:** *bernardogomesg317@gmail.com*  
-💼 **LinkedIn:** *(www.linkedin.com/in/christyan-bernardo-gomes-de-almeida-47b749220)*  
+📧 **E-mail:** *(adicione aqui, se quiser)*  
+💼 **LinkedIn:** *(adicione aqui o link do seu perfil, se tiver)*  
 🌐 **Portfólio:** [christyan-almeida.github.io](https://christyan-almeida.github.io/Programacao_Web/#cursos)
 
 ---
@@ -48,4 +57,4 @@ Continuar evoluindo como desenvolvedor e conquistar minha **primeira experiênci
 
 ---
 
-⭐ Se gostou de algum projeto, não esqueça de deixar um **star** no repositório!  
+⭐ Se gostou de algum projeto, não esqueça de deixar um **star** no repositório!
