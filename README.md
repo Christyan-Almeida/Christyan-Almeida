@@ -30,7 +30,7 @@ Busco constantemente evoluir minhas habilidades para conquistar minha **primeira
 ## ⚽🏀🏎️ Hobbies e Interesses
 
 Além da tecnologia, também sou apaixonado por esportes!  
-- ⚽ **Futebol** é o meu favorito — torcedor do **Cruzeiro Esporte Clube** 💙  
+- ⚽ **Futebol** é o meu esporte favorito — torcedor do **Cruzeiro Esporte Clube** 💙  
 - 🏀 Gosto de acompanhar **NBA**, especialmente o **Milwaukee Bucks** 🦌  
 - 🏎️ Sou grande fã de **Fórmula 1**, e meu piloto preferido é **Lewis Hamilton** 🏁  
 
